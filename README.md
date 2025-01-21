@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="235" src="https://i.hizliresim.com/67hzb7w.png"  />
-</div>
-
 ###
 
 <div align="center">
